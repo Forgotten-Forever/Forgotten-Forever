@@ -3,7 +3,7 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
 ### I'm Forgotten -- liuliu
-- A Student, now.Always Computer Engineering.
+- A Student, now.Study Python\Go.
 - 🌱 I always working in Beijing、Henan, China.
 - 💬 My email: [2985374516@qq.com](mailto:2985374516@qq.com) [forgotten_liu@163.com](mailto:forgotten_liu@163.com)
 - ⚡ I fun things: Data Analysis📊、Script、Game
