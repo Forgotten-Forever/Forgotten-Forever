@@ -25,6 +25,10 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
-### 关于我
+### 关于我 | About me
 - [博客](https://forgotten-forever.github.io/)
 - [note](https://docs.justfeeling.me/)
+
+### Working
+
+[![Forgotten's github stats](https://github-readme-stats.vercel.app/api?username=Forgotten-Forever&hide=contribs,prs,issues&show_icons=true&theme=tokyonight)](https://github.com/Forgotten-Forever/github-readme-stats)
