@@ -5,7 +5,7 @@
 ### I'm Forgotten -- liuliu
 - A Student, now.Study Python\Go.
 - 🌱 I always working in Beijing、Henan, China.
-- 💬 My email: [2985374516@qq.com](mailto:2985374516@qq.com) [forgotten_liu@163.com](mailto:forgotten_liu@163.com)
+- 💬 My email: [2985374516@qq.com](mailto:2985374516@qq.com) [forgotten_liu@163.com (偶尔看)](mailto:forgotten_liu@163.com) [liu2985374516@gmail.com](liu2985374516@gmail.com)
 - ⚡ I fun things: Data Analysis📊、Script、Game
 
 ### 🛠 技术栈 | Tech Stack
