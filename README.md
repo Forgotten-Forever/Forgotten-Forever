@@ -4,7 +4,7 @@
 
 ### I'm Forgotten -- liuliu
 - A Student, now.Study Python\Go.
-- 🌱 I always working in Beijing、Henan, China.
+- 🌱 I always working in Patsnap Suzhou, China.
 - 💬 My email: [2985374516@qq.com](mailto:2985374516@qq.com) [forgotten_liu@163.com (偶尔看)](mailto:forgotten_liu@163.com)
   [liu2985374516@gmail.com](liu2985374516@gmail.com)
 - ⚡ I fun things: Data Analysis📊、Script、Game
@@ -18,8 +18,12 @@
 - 🌐 &#160; ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Vue.js](https://img.shields.io/badge/-VueJS-333333?style=flat&logo=Vue.js)
+![Kafka](https://img.shields.io/badge/-Kafka-333333?style=flat&logo=kafka)
+![Apache Flink](https://img.shields.io/badge/-Apache%20Flink-333333?style=flat&logo=flink)
 - 🛢 &#160; ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+![DynamoDB](https://img.shields.io/badge/-DynamoDB-333333?style=flat&logo=dynamodb)
+![TIDB](https://img.shields.io/badge/-TIDB-333333?style=flat&logo=tidb)
 - 🔧 &#160;![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
